@@ -4,28 +4,6 @@ Project showcasing my CRUD (Create, Read, Update, Delete) implementation on Angu
 with operations. This is important if you're using data from backend (some DB like MySQL) but I guess It can be used for local generated data
 as well.
 
-**Project is updated and now runs on Angular version 6 including Angular Material 6.**
-For Angular 4 compatible version clone [angular_4 branch](https://github.com/marinantonio/angular-mat-table-crud/tree/angular_4).
-
-## Screenshots
-
-Code in action:
-
-![Alt Text](https://i.imgur.com/QcXMtzK.gif)
-
-
-## REST API
-Here's a sample from my real-life application (sorry for Croatian):
-
-![Alt Text](https://i.stack.imgur.com/atzqB.gif)
-
-Angular app using PHP RESTful API does backend updates to MySQL DB.
-You can find entire HttpClient REST code from this project inside dataService.
-
-## Demo
-
-You can play around with code demo [here](https://marinantonio.github.io/angular-mat-table-crud/).
-
 ## Refresh function
 
 Material Table updates if you do a pagination or filter update. You can trigger that with simple method
